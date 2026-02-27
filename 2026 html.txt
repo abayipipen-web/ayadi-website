@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AYADI | Empowering Rural Women & Youth</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+  <div class="container nav">
+    <div class="logo">AYADI</div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#programs">Programs</a>
+      <a href="#impact">Impact</a>
+      <a href="#transparency">Transparency</a>
+      <a href="#contact" class="btn-nav">Donate</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container hero-content">
+    <h1>Empowering Rural Women and Youth to Build Sustainable Futures in Rwanda</h1>
+    <p>Strengthening communities through skills development, financial inclusion and sustainable agriculture.</p>
+    <div class="hero-buttons">
+      <a href="#contact" class="btn-primary">Partner With Us</a>
+      <a href="#" class="btn-secondary">Download Proposal</a>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="section light">
+  <div class="container">
+    <h2>Why Rural Women & Youth Need Support</h2>
+    <p>High unemployment, limited access to finance, low agricultural productivity and restricted market access continue to affect rural communities. Without structured investment, poverty cycles persist across generations.</p>
+  </div>
+</section>
+
+<section id="programs" class="section green">
+  <div class="container">
+    <h2>Our Phased Economic Empowerment Model</h2>
+    <p class="model">Train → Finance → Produce → Sell → Reinvest</p>
+    <div class="grid">
+      <div class="card">
+        <h3>Skills Training</h3>
+        <p>Technical and business skills development for women and youth.</p>
+      </div>
+      <div class="card">
+        <h3>Financial Inclusion</h3>
+        <p>Savings groups and microfinance access for sustainable growth.</p>
+      </div>
+      <div class="card">
+        <h3>Agricultural Support</h3>
+        <p>Value chain development and productivity enhancement.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="impact" class="section light">
+  <div class="container">
+    <h2>Impact Targets 2026–2028</h2>
+    <div class="grid impact">
+      <div class="impact-box">
+        <h3>1,500</h3>
+        <p>Women Empowered</p>
+      </div>
+      <div class="impact-box">
+        <h3>1,000</h3>
+        <p>Youth Supported</p>
+      </div>
+      <div class="impact-box">
+        <h3>70%</h3>
+        <p>Income Growth</p>
+      </div>
+      <div class="impact-box">
+        <h3>6</h3>
+        <p>Rural Districts</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="transparency" class="section blue">
+  <div class="container">
+    <h2>Accountability & Transparency</h2>
+    <p>85% of funds go directly to programs. We maintain low administrative costs and a strong monitoring and evaluation framework.</p>
+    <p><strong>Every $100 invested empowers one rural woman within 12 months.</strong></p>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container">
+    <h2>Invest in Women. Empower Youth. Transform Communities.</h2>
+    <a href="#contact" class="btn-primary">Become a Funding Partner</a>
+  </div>
+</section>
+
+<section id="contact" class="section light">
+  <div class="container">
+    <h2>Contact Us</h2>
+    <p>Email: info@ayadiafrica.com</p>
+    <p>Kigali, Rwanda</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 African Youth Awakening for Development Initiative (AYADI)</p>
+  </div>
+</footer>
+
+</body>
+</html>
